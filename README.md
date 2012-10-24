@@ -1,17 +1,16 @@
 Mr. Short
-=============
+=========
 
-Exemplo simples de plugin para WordPress, que adiciona ShortCodes
+Exemplo simples de plugin para WordPress, que adiciona Shortcodes.
+
+Esta versão traz somente shortcodes de Redes Sociais.
 
 
 ## Specs
-* Feito no SO: Mac OS X 10.6(a.k.a. Snow Leopard)
+* Feito no SO: Mac OS X 10.6 (a.k.a. Snow Leopard)
 * Testado no SO: Mac OS X
 * Linguagem Utilizada: PHP
-* Versão do WordPress Utilizada: >=3.0
-
-
-Esta versão traz somente shortcodes de Redes Sociais
+* Dependências: WordPress >=3.0
 
 
 ## HowTo
@@ -46,7 +45,6 @@ A sintaxe é bem similar a de um BBCode, vá até o post ou página e adicione u
 O parâmetro 'type' define o tipo, entre: normal, white e transparent.
 
 O parâmetro 'size' define o tamanho, entre: 16, 22, 28 e 32.
-
 
 ### ShortCodes disponíveis e seus tipos:
 * Facebook (22 normal, 28 white, 32 normal)
